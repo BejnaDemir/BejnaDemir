@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<h3>Weltome to my Github Profile<h3>
+#Weltome to my Github Profile
 🌱 I’m currently learning frontend development. I'm very new to the software world and github is a good experience for me.
 - 😄 Pronouns: (she/her)
 
