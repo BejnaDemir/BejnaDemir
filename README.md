@@ -1,7 +1,8 @@
 ### Hi there 👋 
-Weltome to my Github Profile
+<h3>Weltome to my Github Profile<h3>
 🌱 I’m currently learning frontend development. I'm very new to the software world and github is a good experience for me.
-- 😄 Pronouns: (she/her)
+  😄 Pronouns: (she/her)
+  
 
 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinem-bejna-demir-890147211/)
