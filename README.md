@@ -6,7 +6,7 @@
 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinem-bejna-demir-890147211/)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?BejnaDemir&show_icons=true&theme=gradient) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?https://github.com/BejnaDemir&show_icons=true&theme=gradient) 
 
 
 
